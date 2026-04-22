@@ -17,7 +17,7 @@
                BlueprintIdentifier = "4E4322275BAB487FAAEA01A8"
                BuildableName = "PokemonCardSim.app"
                BlueprintName = "PokemonCardSim"
-               ReferencedContainer = "container:PokemonCardSim.xcodeproj">
+               ReferencedContainer = "container:TopLoadr.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -34,7 +34,7 @@
                BlueprintIdentifier = "66944EFB6A3C4C6BA07C5502"
                BuildableName = "PokemonCardSimTests.xctest"
                BlueprintName = "PokemonCardSimTests"
-               ReferencedContainer = "container:PokemonCardSim.xcodeproj">
+               ReferencedContainer = "container:TopLoadr.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
@@ -54,7 +54,7 @@
             BlueprintIdentifier = "4E4322275BAB487FAAEA01A8"
             BuildableName = "PokemonCardSim.app"
             BlueprintName = "PokemonCardSim"
-            ReferencedContainer = "container:PokemonCardSim.xcodeproj">
+            ReferencedContainer = "container:TopLoadr.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
